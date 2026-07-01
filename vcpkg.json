@@ -1,0 +1,14 @@
+{
+    "name": "space",
+    "version-string": "0.1.0",
+    "dependencies": [
+        "entt",
+        "vulkan-headers",
+        "vulkan-loader",
+        "shaderc",
+        "glm",
+        "joltphysics",
+        "glfw3",
+        "freetype"
+    ]
+}

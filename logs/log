@@ -1,0 +1,62 @@
+[20:47:13] [TRACE] Window opened
+[20:47:13] [INFO] Vulkan version: 4206592
+[20:47:13] [INFO] Available Vulkan layers on this system:
+[20:47:13] [INFO] VK_LAYER_AMD_switchable_graphics
+[20:47:13] [INFO] VK_LAYER_NV_optimus
+[20:47:13] [INFO] VK_LAYER_NV_present
+[20:47:13] [INFO] VK_LAYER_RENDERDOC_Capture
+[20:47:13] [INFO] VK_LAYER_RTSS
+[20:47:13] [INFO] VK_LAYER_VALVE_steam_overlay
+[20:47:13] [INFO] VK_LAYER_VALVE_steam_fossilize
+[20:47:13] [INFO] VK_LAYER_LUNARG_api_dump
+[20:47:13] [INFO] VK_LAYER_LUNARG_gfxreconstruct
+[20:47:13] [INFO] VK_LAYER_KHRONOS_synchronization2
+[20:47:13] [INFO] VK_LAYER_KHRONOS_validation
+[20:47:13] [INFO] VK_LAYER_LUNARG_monitor
+[20:47:13] [INFO] VK_LAYER_LUNARG_screenshot
+[20:47:13] [INFO] VK_LAYER_KHRONOS_profiles
+[20:47:13] [INFO] VK_LAYER_KHRONOS_shader_object
+[20:47:13] [INFO] VK_LAYER_LUNARG_crash_diagnostic
+[20:47:13] [INFO] END
+[20:47:13] [INFO] [VulkanRenderer] Validation layer DISABLED
+[20:47:13] [INFO] Available Vulkan extensions on this system:
+[20:47:13] [INFO] VK_KHR_device_group_creation
+[20:47:13] [INFO] VK_KHR_external_fence_capabilities
+[20:47:13] [INFO] VK_KHR_external_memory_capabilities
+[20:47:13] [INFO] VK_KHR_external_semaphore_capabilities
+[20:47:13] [INFO] VK_KHR_get_physical_device_properties2
+[20:47:13] [INFO] VK_KHR_get_surface_capabilities2
+[20:47:13] [INFO] VK_KHR_surface
+[20:47:13] [INFO] VK_KHR_win32_surface
+[20:47:13] [INFO] VK_EXT_debug_report
+[20:47:13] [INFO] VK_EXT_debug_utils
+[20:47:13] [INFO] VK_EXT_swapchain_colorspace
+[20:47:13] [INFO] VK_KHR_display
+[20:47:13] [INFO] VK_KHR_get_display_properties2
+[20:47:13] [INFO] VK_KHR_surface_maintenance1
+[20:47:13] [INFO] VK_KHR_surface_protected_capabilities
+[20:47:13] [INFO] VK_EXT_direct_mode_display
+[20:47:13] [INFO] VK_EXT_surface_maintenance1
+[20:47:13] [INFO] VK_NV_external_memory_capabilities
+[20:47:13] [INFO] VK_KHR_portability_enumeration
+[20:47:13] [INFO] VK_LUNARG_direct_driver_loading
+[20:47:13] [INFO] END
+[20:47:13] [TRACE] [createVulkanSurface] Surface created
+[20:47:13] [INFO] Detected GPUs on this system:
+[20:47:13] [INFO]  [0] - Name: NVIDIA GeForce RTX 5070 Ti [Discrete GPU], Supported Vulkan API: 1.4.341
+[20:47:13] [INFO]    ^-- [Selected as Primary Device]
+[20:47:13] [INFO]  [1] - Name: AMD Radeon(TM) Graphics [Integrated GPU], Supported Vulkan API: 1.4.315
+[20:47:13] [INFO] [VulkanRenderer] Logical Device successfully created.
+[20:47:13] [TRACE] [VulkanRenderer] Shader modules successfully created and staged.
+[20:47:13] [TRACE] [createGraphicsPipeline] Graphics pipeline successfully created
+[20:47:13] [TRACE] [createCommandPool] command pool successfully created
+[20:47:13] [TRACE] [createCommandBuffer] command buffer successfully allocated
+[20:47:13] [TRACE] [createSyncObjects] synchronization objects successfully created
+[20:47:13] [TRACE] [setRenderer] render inside window set
+[20:47:13] [TRACE] New font atlas created with name: default0 and size: 16.000000
+[20:47:13] [TRACE] [createImage] Created image
+[20:47:13] [TRACE] [ensureBufferCapacity] buffer (re)created with size: 65536
+[20:47:13] [TRACE] [ensureBufferCapacity] buffer (re)created with size: 65536
+[20:47:13] [TRACE] [ensureBufferCapacity] buffer (re)created with size: 65536
+[20:47:13] [TRACE] [ensureBufferCapacity] buffer (re)created with size: 65536
+[20:47:16] [TRACE] Window closed
